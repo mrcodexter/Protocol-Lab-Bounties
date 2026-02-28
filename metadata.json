@@ -1,0 +1,5 @@
+{
+  "name": "PL Genesis Hub",
+  "description": "A developer dashboard for Protocol Labs hackathon participants to manage bounties, track submission status (Fresh vs Existing), and refine project descriptions using Gemini AI.",
+  "requestFramePermissions": []
+}
