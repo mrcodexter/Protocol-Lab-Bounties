@@ -1,4 +1,4 @@
-🚀 1 PL_Genesis Hackathon Suite
+🚀 PL_Genesis Hackathon Suite
 
 A production-ready AI-powered Web3 project built for the PL_Genesis: Frontiers of Collaboration Hackathon.
 
